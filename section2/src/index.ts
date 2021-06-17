@@ -1,6 +1,4 @@
-function multiply (a:number, b: number): number {
-    return a*b;
-}
+import multiply , { multiplyByTwo, HelloWord} from "./multiply";
 
 const a = 10;
 const b = 2;
